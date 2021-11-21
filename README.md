@@ -36,13 +36,13 @@ To get a local copy up and running follow these simple example steps.
 - Clone this project by the command: 
 
 ```
-$ git clone git@github.com:Taher-web-dev/Shopee---Price-Match-Guarantee.git
+$ git clone git@github.com:Taher-web-dev/CommonLit-Readability-Prize.git
 ```
 
 - Then go to the main folder using the next command:
 
 ```
-$ cd Shopee---Price-Match-Guarantee
+$ cd CommonLit-Readability-Prize
 ```
 
 
